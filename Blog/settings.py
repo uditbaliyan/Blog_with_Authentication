@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'froala_editor',
+
     'markdownx',
     'markdownify',
     'django_markdown2',
